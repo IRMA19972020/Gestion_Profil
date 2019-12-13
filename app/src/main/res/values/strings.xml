@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GestionParking</string>
+
+    <array name="departments">
+        <item>Gestionnaire Parking</item>
+        <item>Technical Parking</item>
+        <item>Securite de Parking</item>
+    </array>
+</resources>
